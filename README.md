@@ -24,3 +24,25 @@ TECHNOLOGIES USED:
 ![Screenshot (38)](https://github.com/Satya3000/thread1/assets/138752006/3c94d6ce-8348-4cd0-9d57-1aac91e07340)
 ![Screenshot (39)](https://github.com/Satya3000/thread1/assets/138752006/15611609-65a5-48e8-8af1-85df94ca21f3)
 
+ABOUT US :
+
+Our Leader --> Dipteswar Nayak
+Members: 
+1> Aman Raj Sahoo
+2> Aniket Behera
+3> Rishav Kumar Das
+4> Satyajit Jena
+
+THANKS AND REGARDS:
+
+Thanks to All the team Members for Showing All the effort And Co-ordination..
+Without all Our Co-ordination It won't be possible....
+Special Thanks To Our Respected Sir...
+Although We Faced Many Problems.... , BUT Despite all these Problems We are able to do the Project Successfully...
+
+THANKYOU ALL
+--> TEAM THREADS..
+
+
+
+
