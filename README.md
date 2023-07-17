@@ -1,6 +1,6 @@
 TEAM -->>  # thread1
 
-About Project:
+ABOUT PROJECT:
 Our Project is to Add To-Do-List..
 TO-DO-LIST is a simple Web application to save your daily tasks in order not to miss 
 anything....
